@@ -1,7 +1,7 @@
 ##  👍 Olá, eu sou o Guilherme Santana  
 
 🚀 Desenvolvedor em busca de alcançar minhas metas.  
-🎯 Meu foco atual: Java e Banco de Dados.  
+🎯 Meu foco atual: Java e Python.  
 
 ## 🔧 Tecnologias & Ferramentas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
