@@ -23,7 +23,7 @@
 ## 📚 Minha jornada
 - ✅ Fundamentos de HTML & CSS  
 - ✅ Lógica de programação e C 
-- 🚀 Atualmente aprendendo Java e sql
+- 🚀 Atualmente aprendendo Java e Python
 - 🎯 Próximos passos: C++
 
 
