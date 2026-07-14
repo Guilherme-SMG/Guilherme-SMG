@@ -1,7 +1,7 @@
 ##  👍 Olá, eu sou o Guilherme Santana  
 
 🚀 Desenvolvedor em busca de alcançar minhas metas.  
-🎯 Meu foco atual: Java e Python.  
+🎯 Meu foco atual: WebAssembly.  
 
 ## 🔧 Tecnologias & Ferramentas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -23,8 +23,8 @@
 ## 📚 Minha jornada
 - ✅ Fundamentos de HTML & CSS  
 - ✅ Lógica de programação e C 
-- 🚀 Atualmente aprendendo Java e Python
-- 🎯 Próximos passos: C++
+- ✅ POO e Java
+- 🎯 Próximos passos: WebAssembly e Rust
 
 
 
